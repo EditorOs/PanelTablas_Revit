@@ -4,10 +4,13 @@ Este paquete de herramientas integradas de Py Revit, Para Revit 2023-2024-2025
 
 Para poder ejecutar estas herramientas en Revit, es necesario descargar e instalar pyRevit y IronPython 
 
- IronPython.net / Link de Descarga. Instalar IronPython 2.7, Para versiones recientes de Revit instalar IronPython 2.7 y 3.4
+ IronPython.net  Instalar IronPython, instalar IronPython 2.7 y 3.4
+http://ironpython.net/
+
+pyRevit v5.2.0
+https://github.com/pyrevitlabs/pyRevit/releases/tag/v5.2.0.25181%2B1332
 
 
-pyRevit v5.2.0 Para versiones Revit 2025
 Pasos de Instalación
 
 1 - Instalar programas pyRevit y IronPython
