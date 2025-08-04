@@ -24,7 +24,7 @@ Se debe ver asi la ruta "C:\Users\XXXXX\AppData\Roaming\pyRevit\Extensions\MiExt
 
 5 - Abrir otra carpeta y extraer información del archivo comprimido "EditorOS_Tablas" mover carpeta extraida en la ruta "C:\Users\XXXXX\AppData\Roaming\pyRevit\Extensions\MiExtension.extension"
 
-6 - Abrir Revit y comprobar que la pestaña "pyRevit" y "EditorOS" esten habilitadas.
+6 - Abrir Revit y comprobar que la pestaña "pyRevit" y "EditorOS_23 o EditorOS_25" esten habilitadas.
 
 7 - Ver tutorial de funcionamiento EditorOS - Panel de Tablas.
 
