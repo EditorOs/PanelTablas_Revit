@@ -1,6 +1,6 @@
 # PanelTablas_Revit
 
-Este paquete de herramientas integradas de Py Revit, Para Revit 2025
+Este paquete de herramientas integradas de Py Revit, Para Revit 2023-2024-2025
 
 Para poder ejecutar estas herramientas en Revit, es necesario descargar e instalar pyRevit y IronPython 
 
