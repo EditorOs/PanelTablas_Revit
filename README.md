@@ -17,7 +17,7 @@ Pasos de Instalación
 
 2 - Pulsar teclas "Windows+R" Escribir en la Ventana "appdata"
 
-3 - En ventana abrir la carpeta Roaming, luego abrir carpeta "pyRevit"
+3 - En la ventana de la carpeta, abrir la carpeta "Roaming", luego abrir carpeta "pyRevit"
 
 4 - Abir carpeta "Extensions", Luego abrir Carpeta "MiExtension.extension", si no esta cear. 
 Se debe ver asi la ruta "C:\Users\XXXXX\AppData\Roaming\pyRevit\Extensions\MiExtension.extension"
