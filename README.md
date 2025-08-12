@@ -29,10 +29,3 @@ Se debe ver asi la ruta "C:\Users\XXXXX\AppData\Roaming\pyRevit\Extensions\MiExt
 7 - Ver tutorial de funcionamiento EditorOS - Panel de Tablas.
 
 https://www.youtube.com/playlist?list=PLcDdmkXAbii4KVOkLCUHVNmwwkhTAzydf
-_____________________________________________________________________________________________
-
-# Licencia de Software Propietario
-
-Copyright (c) [2025] [EditorOS_Holman Osuna]
-
-Todos los derechos reservados.
